@@ -18,3 +18,11 @@ cohérent ceci dans l’initiative de faciliter la reconstruction des niveaux de
 * Guttman, A. (1984). R-trees: A Dynamic Index Structure for Spatial Searching. SIGMOD Rec., 47--57.
 * Kevin, S. a. (2011). Discrete Global Grid Systems. Archives of Photogrammetry, Cartography and Remote Sensing, 363-376.
 * Liu, H. a. (2009). Progressive Vector Data Transmission Based on Overall Effects. Fourth International Conference on Networked Computing and Advanced Information Management, (pp. 2175–2176). Washington.
+
+## Contact
+* contact@boostasoft.com
+## Projets
+https://getjobs.careers.com
+https://boostasoft.com/covid-alert/index.html
+## Paypal support 
+* [https://www.paypal.com/donate?hosted_button_id=PWNATBXSE3VVU]
