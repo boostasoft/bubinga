@@ -22,7 +22,7 @@ cohérent ceci dans l’initiative de faciliter la reconstruction des niveaux de
 ## Contact
 * contact@boostasoft.com
 ## Projets
-* https://getjobs.careers.com
+* https://www.getjobs.careers.com
 * https://boostasoft.com/covid-alert/index.html
 ## Paypal support 
 * https://www.paypal.com/donate?hosted_button_id=PWNATBXSE3VVU
